@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  width: 0;
+  height: 0;
+  border: 0;
+}
+
+header {
+  color: white;
+  background-color: rgb(206, 200, 200);
+  margin: 20px;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  background-color: rgb(182, 180, 180);
+  color: #000;
+  text-decoration: none;
+}
+
+main {
+  background-color: rgb(124, 118, 118);
+  margin: 20px;
+  padding: 0 20px;
+}
+
+h2 {
+  font-size: 2rem;
+  color: rgb(4, 46, 102);
+}
